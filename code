@@ -205,7 +205,7 @@ int checkNote(int dd, int mm){
 
 
 
-//prints the month with all days
+//prints the month with all days and return
 void printMonth(int mon,int year,int x,int y){ 
     int nod, day, cnt, d = 1, x1 = x, y1 = y, isNote = 0;
     if(!(mon>=1 && mon<=12)){
