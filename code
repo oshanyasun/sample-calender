@@ -29,7 +29,7 @@ void gotoxy (int x, int y)
 }
 
 //This will set the forground color for printing in a console window.
-void SetColor(int ForgC)
+void SetColor(int ForgC) for an upto date calender
 {
      WORD wColor;
      //We will need this handle to get the current background attribute
